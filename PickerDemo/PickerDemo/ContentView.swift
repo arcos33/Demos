@@ -29,6 +29,8 @@ enum ColorType: String, CaseIterable {
     case Red
     case Green
     case Purple
+    case Black
+    case White
     case Gray
 }
 
