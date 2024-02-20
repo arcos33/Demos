@@ -37,6 +37,7 @@ enum ColorType: String, CaseIterable {
     case One
     case Two
     case Three
+    case Four
 }
 
 #Preview {
